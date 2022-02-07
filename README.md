@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jotter24
 - 👀 I’m interested in learning new things like this Repository
-- 🌱 I’m actually new on thie xd
+- 🌱 I’m actually new on this xd
 - 💞️ I’m looking to learn more about security on the web
 
 
